@@ -1,7 +1,7 @@
 # hello-world-
 This is my first Repo 
 <br>
-Authore - Nilesh Mahajan Apna college 
+Authore - Nilesh Mahajan Apna college nilu hello world 
 
 
 
